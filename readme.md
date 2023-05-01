@@ -15,3 +15,14 @@ This project trains several CNN models for action recognition, culminating in a 
 * Several different types of fusion were tested: *average*, *concatenation*, *maximum*, *minimum*
 
 The user is advised to read the report for a comprehensive description of the project.
+
+Here are the model architectures:
+
+### ResNet for frames
+![MyResNetModel.jpg](model_architectures%2FMyResNetModel.jpg)
+
+### 3D ResNet for optical flow
+![optical_flow_model.jpg](model_architectures%2Foptical_flow_model.jpg)
+
+### Two-stream model
+![two_stream_model.jpg](model_architectures%2Ftwo_stream_model.jpg)
